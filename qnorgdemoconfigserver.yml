@@ -3,4 +3,5 @@ spring:
       name: "huhu"
 custom:
    property:"qnorgdemoconfigserver"
+   property2:"qnorgdemoconfigservernatural"
    
