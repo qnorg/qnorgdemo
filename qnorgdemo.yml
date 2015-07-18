@@ -3,6 +3,7 @@ spring:
       name: "huhu"
 custom:
    property:"qnorgdemo"
-custom:
    propertyslaveadded:"qnorgdemoslaveadded"
+   propertyslaveaddedreally:"qnorgdemoslaveaddedmaybe really"
+   propertysubtest:"qnorgdemoslaveaddedmaybe really"
    
