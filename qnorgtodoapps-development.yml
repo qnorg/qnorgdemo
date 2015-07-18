@@ -1,0 +1,8 @@
+spring:
+   application:
+      name: "huhu"
+custom:
+   property:"qnorgdemo"
+custom:
+   propertyslaveadded:"qnorgdemoslaveadded"
+   
