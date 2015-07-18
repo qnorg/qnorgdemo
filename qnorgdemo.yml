@@ -3,6 +3,5 @@ spring:
       name: "huhu"
 custom:
    property:"qnorgdemo"
-custom:
    propertyslaveadded:"qnorgdemoslaveadded"
    
