@@ -1,6 +1,6 @@
 spring:
    application:
-      name: "huhu"
+      name: "huhukolbi"
 custom:
    property:"qnorgtodoapps_development"
    propertyslaveadded:"qnorgdemoslaveadded"
